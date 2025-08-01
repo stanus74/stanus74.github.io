@@ -1,6 +1,12 @@
-Klar! Hier ist eine **kompakte, effektive Befehlssammlung** zur Bereinigung von Docker – ideal zum schnellen Copy-Pasten:
-
 ---
+layout: post
+title:  "Docker bereinigen"
+date:   2025-08-01 10:13:27 +0100
+categories: docker
+lang: de
+tags: docker
+---
+
 
 ## 🧹 **Docker Bereinigung – kompakte Übersicht**
 
